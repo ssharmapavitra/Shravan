@@ -37,7 +37,7 @@ public class SplashScreen extends AppCompatActivity {
             @Override
             public void run() {
 //                rotateAnimation.cancel();
-                Intent i = new Intent(SplashScreen.this, DetectorActivity.class);
+                Intent i = new Intent(SplashScreen.this, HomeActivity.class);
                 startActivity(i);
                 finish();
             }
