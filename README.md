@@ -2,7 +2,7 @@
 
 Shravan is an Android application that aims to provide guidance and assistance to visually impaired individuals. It leverages object detection using TensorFlow Lite to help users detect objects in their surroundings.
 
-##Features
+## Features
 <!-- Add bullet points -->
   - Real-time object detection using a pre-trained model
   - Camera preview with object tracking overlay
